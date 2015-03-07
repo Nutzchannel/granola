@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "granola",
+  "name": "The Granola Mod",
+  "description": "Because SOMEBODY had to.",
+  "version": "alpha 0.2",
+  "mcversion": "1.8-11.14.1.1336",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Nutzchannel"],
+  "credits": "MrCrayFish, for tutorials",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
