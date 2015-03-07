@@ -1,0 +1,10 @@
+package assets.granola.textures.items;
+
+public class Snippet {
+	wood_axe.png
+	wood_hoe.png
+	wood_pickaxe.png
+	wood_shovel.png
+	wood_sword.png
+}
+

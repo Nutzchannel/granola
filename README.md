@@ -11,4 +11,12 @@ WAY not finished! If you're looking for a complete, stable version,
 
 we're at:
 
-# ALPHA 0.1
+# ALPHA 0.3
+
+## Todo
+
+- Fix Armor
+
+## Wanted
+
+- Stickiness armor buff

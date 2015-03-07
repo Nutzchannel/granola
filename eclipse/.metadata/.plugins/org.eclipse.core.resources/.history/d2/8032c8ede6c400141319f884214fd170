@@ -1,0 +1,11 @@
+package com.nutz.granola.item;
+
+import net.minecraft.item.ItemPickaxe;
+
+public class ItemGranolaAxeI extends ItemAxe {
+
+	protected ItemGranolaAxeI(ToolMaterial material) {
+		super(material);
+	}
+
+}

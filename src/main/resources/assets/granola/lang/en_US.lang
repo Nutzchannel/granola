@@ -1,3 +1,10 @@
 item.granola_bit.name=Granola Bit
 item.granola_bar.name=Granola Bar
 item.roasted_bar.name=Roasted Granola Bar
+item.pick_i.name=Granola Pickaxe
+item.axe_i.name=Granola Axe
+item.shovel_i.name=Granola Shovel
+item.hoe_i.name=Granola Hoe
+item.sword_i.name=Granola Sword
+
+itemGroup.tabGranola.name=Granola Items

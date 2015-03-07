@@ -1,0 +1,7 @@
+package com.nutz.granola;
+
+import net.minecraft.creativetab.CreativeTabs;
+
+public class GranolaTab extends CreativeTabs {
+
+}

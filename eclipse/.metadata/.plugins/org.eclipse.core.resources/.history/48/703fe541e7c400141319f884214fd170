@@ -1,0 +1,7 @@
+package com.nutz.granola.init;
+
+import net.minecraft.item.ItemShovel;
+
+public class ItemGranolaShovelI extends ItemShovel {
+
+}

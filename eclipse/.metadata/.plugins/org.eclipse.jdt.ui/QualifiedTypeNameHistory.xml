@@ -3,7 +3,12 @@
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
 <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
 <fullyQualifiedTypeName name="com.nutz.granola.Reference"/>
-<fullyQualifiedTypeName name="com.nutz.granola.init.GranolaItems"/>
-<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 <fullyQualifiedTypeName name="net.minecraft.init.Items"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item.ToolMaterial"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.util.EnumHelper"/>
+<fullyQualifiedTypeName name="com.nutz.granola.GranolaMod"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="com.nutz.granola.init.GranolaItems"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemArmor"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemArmor.ArmorMaterial"/>
 </qualifiedTypeNameHistroy>

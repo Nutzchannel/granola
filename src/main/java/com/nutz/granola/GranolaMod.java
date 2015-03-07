@@ -18,6 +18,9 @@ public class GranolaMod {
 	@SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
 	public static CommonProxy proxy;
 	
+	public static final GranolaTab tabGranola = new GranolaTab("tabGranola");
+	public static final ToolsTab tabTools = new ToolsTab("tabTools");
+	
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event)
 	{
