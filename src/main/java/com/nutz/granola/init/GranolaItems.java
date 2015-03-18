@@ -23,6 +23,7 @@ public class GranolaItems {
 	public static Item granola_bit;
 	public static Item granola_bar;
 	public static Item roasted_bar;
+	public static Item bar_ii;
 	
 	// public static final ItemArmor.ArmorMaterial armour_i = EnumHelper.addArmorMaterial("armour_i", null, 256, new int[]{5, 10, 5, 3}, 3);
 	
