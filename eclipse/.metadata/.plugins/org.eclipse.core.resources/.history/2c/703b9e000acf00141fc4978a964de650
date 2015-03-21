@@ -1,0 +1,12 @@
+package com.nutz.granola.blocks;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class granola_block_i extends Block {
+
+	public granola_block_i(Material materialIn) {
+		super(materialIn);
+	}
+
+}
