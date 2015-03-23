@@ -1,7 +1,5 @@
 package com.nutz.granola;
 
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemFood;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;
