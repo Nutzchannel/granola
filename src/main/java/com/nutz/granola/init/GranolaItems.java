@@ -22,7 +22,11 @@ public class GranolaItems {
 	public static Item granola_bit;
 	public static Item granola_bar;
 	public static Item roasted_bar;
+<<<<<<< HEAD
 	public static Item good_bar;
+=======
+	public static Item bar_ii;
+>>>>>>> origin/master
 	
 	// public static final ItemArmor.ArmorMaterial armour_i = EnumHelper.addArmorMaterial("armour_i", null, 256, new int[]{5, 10, 5, 3}, 3);
 	
@@ -39,6 +43,7 @@ public class GranolaItems {
 		granola_bit = new Item().setUnlocalizedName("granola_bit").setCreativeTab(GranolaMod.tabGranola);
 		granola_bar = new ItemFood(2, 0.3F, false).setUnlocalizedName("granola_bar").setCreativeTab(GranolaMod.tabGranola);
 		roasted_bar = new ItemFood(3, 0.5F, true).setUnlocalizedName("roasted_bar").setCreativeTab(GranolaMod.tabGranola);
+		bar_ii = new ItemFood(5, 0.7F, true).setUnlocalizedName("bar_ii").setCreativeTab(GranolaMod.tabGranola);
 		
 		// TOOLS \\
 		pick_i = new ItemGranolaPickI(tier_i_mat).setUnlocalizedName("pick_i").setCreativeTab(GranolaMod.tabTools);
@@ -54,6 +59,7 @@ public class GranolaItems {
 		GameRegistry.registerItem(granola_bit, granola_bit.getUnlocalizedName().substring(5));
 		GameRegistry.registerItem(granola_bar, granola_bar.getUnlocalizedName().substring(5));
 		GameRegistry.registerItem(roasted_bar, roasted_bar.getUnlocalizedName().substring(5));
+		GameRegistry.registerItem(bar_ii, bar_ii.getUnlocalizedName().substring(5));
 		// tools
 		// tier i \\
 		GameRegistry.registerItem(pick_i, pick_i.getUnlocalizedName().substring(5));
@@ -74,6 +80,7 @@ public class GranolaItems {
 		registerRender(granola_bit);
 		registerRender(granola_bar);
 		registerRender(roasted_bar);
+		registerRender(bar_ii);
 		
 		registerRender(pick_i);
 		registerRender(axe_i);

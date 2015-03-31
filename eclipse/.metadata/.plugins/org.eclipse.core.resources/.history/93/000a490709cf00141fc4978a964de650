@@ -1,0 +1,15 @@
+package com.nutz.granola.init;
+
+public class GranolaBlocks {
+	public static Block granola_block_i;
+	
+	public static void init()
+	{
+		
+	}
+	
+	public static void register()
+	{
+		
+	}
+}

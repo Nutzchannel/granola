@@ -1,0 +1,17 @@
+package com.nutz.granola.init;
+
+import net.minecraft.block.Block;
+
+public class GranolaBlocks {
+	public static Block granola_block_i;
+	
+	public static void init()
+	{
+		
+	}
+	
+	public static void register()
+	{
+		
+	}
+}

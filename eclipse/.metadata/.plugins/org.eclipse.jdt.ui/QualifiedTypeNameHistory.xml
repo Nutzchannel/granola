@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
 <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
 <fullyQualifiedTypeName name="com.nutz.granola.Reference"/>
 <fullyQualifiedTypeName name="net.minecraft.init.Items"/>
@@ -11,4 +10,7 @@
 <fullyQualifiedTypeName name="com.nutz.granola.init.GranolaItems"/>
 <fullyQualifiedTypeName name="net.minecraft.item.ItemArmor"/>
 <fullyQualifiedTypeName name="net.minecraft.item.ItemArmor.ArmorMaterial"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
 </qualifiedTypeNameHistroy>

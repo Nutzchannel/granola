@@ -1,0 +1,7 @@
+package com.nutz.granola.blocks;
+
+import net.minecraft.block.Block;
+
+public class GranolaBlock extends Block {
+
+}
